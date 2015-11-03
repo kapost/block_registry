@@ -96,7 +96,7 @@ registry.registered?('user-register')  # => false
 
 ### `BlockRegistry#handles?`
 
-Alias for [`BlockRegistry#registered?`](#BlockRegistry_registered)
+Alias for [`BlockRegistry#registered?`](#blockregistryregistered)
 
 ### `BlockRegistry#handle`
 
